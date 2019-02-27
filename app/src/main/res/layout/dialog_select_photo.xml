@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:text="@string/choose_photo_from_memory"
+        android:textSize="15sp"
+        android:textColor="@color/Black"
+        android:id="@+id/dialogChoosePhoto"
+        android:gravity="center_vertical"/>
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:text="@string/take_a_photo"
+        android:textSize="15sp"
+        android:textColor="@color/Black"
+        android:id="@+id/dialogOpenCamera"
+        android:gravity="center_vertical"
+        android:layout_below="@+id/dialogChoosePhoto"/>
+
+</RelativeLayout>

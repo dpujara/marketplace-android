@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "902288150912",
+    "firebase_url": "https://fir-setup-1b0d7.firebaseio.com",
+    "project_id": "fir-setup-1b0d7",
+    "storage_bucket": "fir-setup-1b0d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902288150912:android:59353c8d9b7e2b23",
+        "android_client_info": {
+          "package_name": "codingwithmitch.com.forsale"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902288150912-lifmcg61p8006pqip7n4no8pndakq2vn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvGG-rRxvC2VL5pb1H87hXz2oSrJGn9K0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902288150912:android:e4fe255f88858a71",
+        "android_client_info": {
+          "package_name": "com.pujara.dhaval.forsale"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902288150912-lifmcg61p8006pqip7n4no8pndakq2vn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvGG-rRxvC2VL5pb1H87hXz2oSrJGn9K0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
